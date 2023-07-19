@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Comet and I make things! You'll see,, alot of repos on my page, but let me save you the hassle and tell you the non-junk ones.
+
+RREngine-Addons:             All my Addons for The64thGamer's RR-Engine! Mostly made for my friends.
+Open Hand Poser (OHP):       My open source dynamic handposing solution! Mostly for VR, made it cuz I was bored one day!
+
+theres not much else, the rest is just junk.
 <!--
 **CometHSolis/CometHSolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
