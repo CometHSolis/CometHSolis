@@ -2,7 +2,7 @@
 
 My name is Comet and I make things! You'll see,, alot of repos on my page, but let me save you the hassle and tell you the non-junk ones.
 
-RREngine-Addons:             All my Addons for The64thGamer's RR-Engine! Mostly made for my friends.
+RREngine-Addons:             All my Addons for The64thGamer's RR-Engine! Mostly made for my friends.\n
 Open Hand Poser (OHP):       My open source dynamic handposing solution! Mostly for VR, made it cuz I was bored one day!
 
 theres not much else, the rest is just junk.
