@@ -1,22 +1,10 @@
 ### Hi there 👋
 
-My name is Comet and I make things! I've got these repos:
-
-RREngine-Addons:             All my Addons for The64thGamer's RR-Engine! Mostly made for my friends. <br>
-Open Hand Poser (OHP):       My open source dynamic handposing solution! Mostly for VR, made it cuz I was bored one day!
-
-theres not much else.
-<!--
-**CometHSolis/CometHSolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a SCP VR Game with realistic weapon handling and co-op
+- 🌱 I’m currently learning VR Physics Weapons
+- 👯 I’m looking to collaborate on Nothing
+- 🤔 I’m looking for help with Nothing
+- 💬 Ask me about my projects!
+- 📫 How to reach me: N/A
+- 😄 Pronouns: She/They
+- ⚡ Fun fact: I've been devving since March 2020
